@@ -4,7 +4,7 @@ STUDENT :
 
 1.) Record data anonymously when check-box unchecked.(*7th*)
 
-2.) Same Department Same Prof Filter/Sort.(*6th*)
+2.) Same Department Same Prof Filter/Sort.(*6th*) DONE!!!!!!!!!
 
 
 
@@ -20,7 +20,7 @@ ADMIN :
 
 5.) Stay in Manage questions when action is done(Dont reset webpage). (*4th*)
 
-6.) Questionnaire not being Updated(Students). DONE!
+6.) Questionnaire not being Updated(Students). DONE!!!
 
 7.) Remove Ability to see result.(*5th*)
 
